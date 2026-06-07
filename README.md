@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Eric Mutembei 👋
 
-<!--
-**Muteric/Muteric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Data Science Professional | Educator
 
-Here are some ideas to get you started:
+I use data, analytics, and automation to solve real-world problems. My interests include machine learning, business intelligence, algorithmic trading, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python
+* SQL
+* Excel
+* Power BI
+* Data Visualization
+* Machine Learning
+* MQL5
+* Git & GitHub
+
+## Current Projects
+
+* Smart Money Concepts Trading Algorithms
+* AI-Assisted Educational Content
+* Agricultural Data Analytics
+* Business Intelligence Dashboards
+
+## Certifications & Learning
+
+* Data Science
+* Data Analytics
+* Machine Learning
+* Business Intelligence
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/eric-elias-rrp26/
+* Email: mutermberic@gmail.com
+* GitHub: github.com/Muteric
+
+## Fun Fact
+
+I enjoy turning complex data into practical solutions that people can actually use.
