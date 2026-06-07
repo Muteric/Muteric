@@ -1,40 +1,95 @@
-# Hi, I'm Eric Mutembei 👋
+# Eric Mutembei Elias
 
-Data Analyst | Data Science Professional | Educator
+**Data Analyst | Data Scientist | Research-Oriented Problem Solver**
 
-I use data, analytics, and automation to solve real-world problems. My interests include machine learning, business intelligence, algorithmic trading, and AI-powered solutions.
+I build data-driven systems that turn raw information into actionable insights, automation, and decision-support tools. My work focuses on applied data science, analytics engineering, and intelligent systems for real-world use cases.
 
-## Skills
+---
 
-* Python
-* SQL
-* Excel
-* Power BI
-* Data Visualization
-* Machine Learning
-* MQL5
+## 🚀 What I Do
+
+* 📊 Data Analysis & Visualization (Python, SQL, Power BI)
+* 🤖 Machine Learning & Predictive Modeling
+* ⚙️ Automation & Data Engineering Workflows
+* 📈 Algorithmic Trading Systems (MQL5 / SMC-based models)
+* 🧠 Applied Research in Data-Driven Decision Systems
+
+---
+
+## 🧠 Technical Skills
+
+**Languages & Tools**
+
+* Python (Pandas, NumPy, Scikit-learn)
+* SQL (Data querying & analytics)
+* Excel (Advanced analysis & modeling)
+* MQL5 (Algorithmic trading systems)
 * Git & GitHub
 
-## Current Projects
+**Data & BI**
 
-* Smart Money Concepts Trading Algorithms
-* AI-Assisted Educational Content
-* Agricultural Data Analytics
-* Business Intelligence Dashboards
+* Power BI
+* Data Visualization (Matplotlib, Seaborn)
+* Dashboard Design & Reporting
 
-## Certifications & Learning
+**Machine Learning**
 
-* Data Science
-* Data Analytics
-* Machine Learning
-* Business Intelligence
+* Supervised Learning
+* Feature Engineering
+* Model Evaluation & Optimization
 
-## Connect With Me
+---
 
-* LinkedIn: https://www.linkedin.com/in/eric-elias-rrp26/
-* Email: mutermberic@gmail.com
-* GitHub: github.com/Muteric
+## 📌 Featured Projects
 
-## Fun Fact
+### 📈 Market Intelligence System
 
-I enjoy turning complex data into practical solutions that people can actually use.
+A structured data analysis system designed to extract insights from financial and market datasets, enabling data-driven decision-making.
+
+### 🤖 Smart Money Concepts Trading Engine
+
+An automated trading system built on Smart Money Concepts (SMC), detecting liquidity zones, order blocks, and market structure shifts.
+
+### 📚 AI-Assisted Learning Systems
+
+Exploring AI-driven educational tools to improve content generation, learning personalization, and engagement.
+
+### 🌱 Agricultural Data Analytics
+
+Data analysis models applied to agricultural datasets for crop optimization, yield prediction, and resource allocation.
+
+### 📊 Business Intelligence Dashboards
+
+Interactive dashboards designed for business performance tracking, reporting, and decision support.
+
+---
+
+## 🎯 Current Focus Areas
+
+* Applied Data Science & Analytics Engineering
+* Machine Learning for Real-World Systems
+* Financial Data Modeling & Algorithmic Trading
+* AI-Powered Automation Tools
+* Research-Oriented Data Problem Solving
+
+---
+
+## 🧩 Philosophy
+
+> “Data is not just numbers — it is a system for understanding reality and improving decisions.”
+
+I focus on building solutions that are practical, interpretable, and impactful in real-world environments.
+
+---
+
+## 🤝 Connect With Me
+
+* GitHub: https://github.com/Muteric
+* LinkedIn: *https://www.linkedin.com/in/eric-elias-rrp26/*
+* Email: *mutemberic@gmail.com*
+
+---
+
+## 📌 Fun Fact
+
+I enjoy turning complex data into systems that people can actually use to make better decisions.
